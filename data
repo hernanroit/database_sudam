@@ -1,1 +1,15 @@
+Versión en Español
+La base de datos, en formato RDS para R, incluye información detallada sobre países (country), secciones (industry_code) y descripciones (industry_desc) asociadas a cada sección. Además, contiene tres variables clave:
 
+Tasa de ocupados informales (informality_rate): mide el grado de informalidad laboral, calculado como el cociente entre el número de ocupados informales y el total de ocupados.
+Tasa de ocupados con educación media o superior (education_rate): refleja el nivel educativo alcanzado por los empleados, definido como el porcentaje de ocupados con educación media completa o superior (incompleta o completa) respecto al total de ocupados.
+Tasa de participación femenina (women_rate): evalúa la participación de las mujeres en el mercado laboral, determinada como la proporción de mujeres ocupadas sobre el total de personas ocupadas.
+Para más detalles, véase: Roitbarg, H. A. (2024). Efectos socioeconómicos de la inserción de Sudamérica en las cadenas de valor. Realidad Económica, 54(361), 63-a.
+
+English Version
+The database, in RDS format for R, provides detailed information on countries, sections, and their respective descriptions. It also includes three key variables:
+
+Informal employment rate (informality_rate): measures the degree of labor informality, calculated as the ratio of informal workers to the total number of employed individuals.
+Employment rate with secondary or higher education (education_rate): reflects the educational attainment of employees, defined as the percentage of workers with at least completed or incomplete secondary education or higher relative to the total employed population.
+Female participation rate (women_rate): assesses women's involvement in the labor market, determined as the proportion of employed women to the total number of employed individuals.
+For further details, see: Roitbarg, H. A. (2024). Socioeconomic effects of South America's integration into value chains. Realidad Económica, 54(361), 63-a.
