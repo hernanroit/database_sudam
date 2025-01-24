@@ -7,7 +7,6 @@ Archivo en formato RDS que cuenta con seis variables: país, secciones de CIIU, 
 •	Tasa de ocupados con educación media o superior: busca relevar el máximo nivel alcanzado por los empleados, se define como el cociente entre los ocupados con educación media completa o superior (incompleta o completa) sobre el total de ocupados. 
 •	Tasa participación femenina: tiene por objeto medir la participación de la mujer en las ocupaciones activadas, se determina como la ratio entre mujeres ocupadas y el total de personas ocupadas. 
 
-
 Database on sectoral labour statistics based on the exploration and harmonisation of microdata for Argentina, Brazil, Chile, Colombia and Peru. The classification of sectors corresponds fully to the 45 sectors used by the OECD (ISIC, Rev. 4).
 
 RDS file with six variables: country, ISIC sections, description of the sections and three indicators:
